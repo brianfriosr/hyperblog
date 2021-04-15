@@ -4,7 +4,7 @@ Un blog increible para el curso de Git y Github de Platzi
 > El curso de Git y Github es lo que necesitaba para triplicar mi salario.
 
 
-####**En este curso se ve de todo:**
+### **En este curso se ve de todo:**
 
 -  Todos los comandos de Git.
 -  El flujo de trabajo de Github.
